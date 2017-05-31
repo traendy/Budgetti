@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
     private static TextView remains_view;
     ListView list_view;
     Button reset_btn, new_btn;
+
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
      * See https://g.co/AppIndexing/AndroidStudio for more information.
